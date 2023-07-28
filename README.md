@@ -81,6 +81,6 @@ Happy Coding! 🚀
 ### Todo List
 ![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
 
-#CodeWithFriends #tkinter #TechEnthusiasts #Collaboration #ProgrammingJourney #TechInnovation #Python #mysql
+#CodeWithFriends #tkinter #Python #mysql
 
 GitHub Repository: [GitHub.com/11aniketkumar/CodeWithFriends](https://github.com/11aniketkumar/CodeWithFriends)
