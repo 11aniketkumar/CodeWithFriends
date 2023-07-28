@@ -38,18 +38,19 @@ Are you ready to level up your coding game? 🎯 Join me on this incredible jour
 
 ## Screenshots
 
+## Screenshots
+
 ### Account Info
-![Account Info](./images/account_info.png)
+![Account Info](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/account%20info.png)
 
 ### Chatroom
-![Chatroom](./images/chatroom.png)
+![Chatroom](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/chatroom.png)
 
 ### Login
-![Login](./images/login.png)
+![Login](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/login.png)
 
 ### Project
-![Project](./images/project.png)
+![Project](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/project.png)
 
 ### Todo List
-![Todo List](./images/todo_list.png)
-
+![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
