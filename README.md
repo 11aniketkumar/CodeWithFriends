@@ -34,9 +34,6 @@ Are you ready to level up your coding game? 🎯 Join me on this incredible jour
 
 👉 Sign up now at [Insert Website Link] and embark on an incredible coding journey with us!
 
-#CodeWithFriends #CodingCommunity #TechEnthusiasts #Collaboration #ProgrammingJourney #TechInnovation #WebDevelopment #JoinTheCommunity
-
-## Screenshots
 
 ## Screenshots
 
@@ -54,3 +51,5 @@ Are you ready to level up your coding game? 🎯 Join me on this incredible jour
 
 ### Todo List
 ![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
+
+#CodeWithFriends #CodingCommunity #TechEnthusiasts #Collaboration #ProgrammingJourney #TechInnovation #WebDevelopment #JoinTheCommunity
