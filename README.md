@@ -1,9 +1,6 @@
 # Code With Friends - GitHub Readme
-
-"Code With Friends" is an ambitious python application developed using the tkinter library. The main objective was to create a GUI-based coding platform that fosters collaboration and project management among aspiring developers, seasoned programmers, and tech enthusiasts. While the initial vision was to mimic some functionalities of GitHub, it became evident that the application is best suited for offline use, and thus does not support online collaboration.
-
 ## Introduction
-Code With Friends is a collaborative project management and code sharing platform designed to help developers work together efficiently on projects. It is a Python tkinter GUI project that enables users to create and manage projects, write and share code, maintain to-do lists, take project notes, search for public projects, and communicate via a chat room.
+"Code With Friends" is an ambitious python application developed using the tkinter library. The main objective was to create a GUI-based coding platform that fosters collaboration and project management among aspiring developers, seasoned programmers, and tech enthusiasts. While the initial vision was to mimic some functionalities of GitHub, it became evident that the application is best suited for offline use, and thus does not support online collaboration.
 
 ## Features
 1. **Account Details**
