@@ -1,14 +1,14 @@
 # 🚀 Exciting Project Alert: Code With Friends 🚀
 
-Are you ready to level up your coding game? 🎯 Join me on this incredible journey with "Code With Friends," a collaborative coding platform that will revolutionize the way you approach programming!
+Are you ready to level up your coding game? 🎯 Join me on this incredible journey with "Code With Friends," a collaborative tkinter project that aims to revolutionize the way you approach programming!
 
 ## 🌟 What is "Code With Friends"?
 
-"Code With Friends" is an innovative web application designed to bring together aspiring developers, seasoned programmers, and tech enthusiasts in one vibrant community. This platform offers a plethora of features to facilitate seamless collaboration, project management, and skill-sharing.
+"Code With Friends" is an ambitious python application developed using the tkinter library. The main objective was to create a GUI-based coding platform that fosters collaboration and project management among aspiring developers, seasoned programmers, and tech enthusiasts. While the initial vision was to mimic some functionalities of GitHub, it became evident that the application is best suited for offline use, and thus does not support online collaboration.
 
 ## 🔥 Key Features
 
-- **Project Collaboration**: Work on exciting projects with like-minded individuals from all around the world. Collaborate, brainstorm, and build remarkable solutions together!
+- **Project Collaboration**: Work on exciting projects with like-minded individuals. Collaborate, brainstorm, and build remarkable solutions together!
 
 - **To-Do List**: Organize your tasks and stay on top of your project's progress with our intuitive To-Do List feature. Keep yourself and your team focused and productive.
 
@@ -20,20 +20,7 @@ Are you ready to level up your coding game? 🎯 Join me on this incredible jour
 
 - **Chat Room**: Connect with other members through our interactive Chat Room. Discuss ideas, ask questions, and exchange knowledge in real-time.
 
-## 💡 Why Choose "Code With Friends"?
-
-- **Global Community**: Embrace diversity and learn from talented individuals worldwide. Expand your network and make lifelong connections.
-
-- **Skill Development**: Sharpen your coding skills by working on diverse projects. Learn new techniques, tools, and coding languages through hands-on experience.
-
-- **Open Discussion**: Engage in open discussions, share knowledge, and seek advice from experienced developers. Elevate your understanding of programming concepts.
-
-- **Resourceful Learning**: Access a vast library of coding resources, tutorials, and guides. Stay updated with the latest trends and advancements in the tech world.
-
 🤝 Join the "Code With Friends" community today and unlock a world of opportunities for personal and professional growth.
-
-👉 Sign up now at [Insert Website Link] and embark on an incredible coding journey with us!
-
 
 ## Screenshots
 
@@ -52,4 +39,6 @@ Are you ready to level up your coding game? 🎯 Join me on this incredible jour
 ### Todo List
 ![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
 
-#CodeWithFriends #CodingCommunity #TechEnthusiasts #Collaboration #ProgrammingJourney #TechInnovation #WebDevelopment #JoinTheCommunity
+#CodeWithFriends #tkinter #TechEnthusiasts #Collaboration #ProgrammingJourney #TechInnovation #Python #mysql
+
+GitHub Repository: [GitHub.com/11aniketkumar/CodeWithFriends](https://github.com/11aniketkumar/CodeWithFriends)
