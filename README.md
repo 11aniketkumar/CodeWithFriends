@@ -37,6 +37,24 @@
 8. **Log Out**
    - Securely log out from the Code With Friends platform.
 
+## Screenshots
+
+### Account Info
+![Account Info](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/account%20info.png)
+
+### Chatroom
+![Chatroom](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/chatroom.png)
+
+### Login
+![Login](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/login.png)
+
+### Project
+![Project](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/project.png)
+
+### Todo List
+![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
+
+
 ## How to Use
 1. Clone or download the project from the repository.
 2. Set up the required environment and dependencies.
@@ -63,22 +81,5 @@ The Code With Friends platform is designed to enhance collaboration and producti
 Feel free to contribute to the project and make it even better! For any issues or suggestions, please submit a pull request or open an issue on the GitHub repository.
 
 Happy Coding! 🚀
-
-## Screenshots
-
-### Account Info
-![Account Info](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/account%20info.png)
-
-### Chatroom
-![Chatroom](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/chatroom.png)
-
-### Login
-![Login](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/login.png)
-
-### Project
-![Project](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/project.png)
-
-### Todo List
-![Todo List](https://github.com/11aniketkumar/CodeWithFriends/raw/master/images/todo%20list.png)
 
 #CodeWithFriends #tkinter #Python #mysql
